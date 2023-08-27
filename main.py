@@ -8,10 +8,11 @@ def main():
 
     book,author,release_year,goodreads_ratings = 'Dracula','Brown Stroker','1897','4.02'
 
-    print(book)
-    print(author)
-    print(release_year)
-    print(goodreads_ratings)
+    #print(book)
+    #print(author)
+   # print(release_year)
+    #print(goodreads_ratings)
+    print(book,author,release_year,goodreads_ratings)
 
 if __name__ == '__main__':
     main()
