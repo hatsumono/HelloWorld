@@ -1,2 +1,2 @@
-def gree():
+def greet():
     print('Hello, World!')
