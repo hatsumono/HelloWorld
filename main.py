@@ -6,7 +6,7 @@ def main():
    # release_year = 1897
    # goodreads_ratings = 4.01
 
-    book,author,release_year,goodreads_ratings = 'Dracula','Brown Stroker','1897','4.01'
+    book,author,release_year,goodreads_ratings = 'Dracula','Brown Stroker','1897','4.02'
 
     print(book)
     print(author)
