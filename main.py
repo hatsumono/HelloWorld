@@ -12,7 +12,9 @@ def main():
     #print(author)
    # print(release_year)
     #print(goodreads_ratings)
-    print(book,author,release_year,goodreads_ratings)
+    #print(book,author,release_year,goodreads_ratings)
+    print('The book ' + book + 'was written by ' + author + ' and release in ' + release_year +
+          'the boook is rated at ' + goodreads_ratings)
 
 if __name__ == '__main__':
     main()
